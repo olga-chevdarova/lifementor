@@ -1,0 +1,126 @@
+//.progress {
+//  height:2.5em !important;
+//}
+//
+//.progress-bar {
+//  width: 25%;
+//  font-size: 1.2em;
+//}
+//
+//@mixin background-color($percent) {
+//  background-color: lighten(#2ea63c, $percent) !important;
+//
+//}
+//
+//.progress_link_3 {
+//  a.active {
+//    background-color: #2ea63c ;
+//    opacity: 1;
+//    border-radius: 1em;
+//  }
+//}
+//.progress_link_2{
+//  a.active {
+//    @include background-color(20%);
+//    opacity: 1;
+//    border-radius: 1em;
+//  }
+//
+//}
+//.progress_link_1 {
+//  a.active {
+//    @include background-color(30%);
+//    opacity: 1;
+//    border-radius: 1em;
+//  }
+//}
+//.progress_link_0 {
+//  a.active {
+//    @include background-color(40%);
+//    opacity: 1;
+//    border-radius: 1em;
+//  }
+//}
+//
+//.progress_bar {
+//  padding: 2em;
+//  div {
+//    background-color: #f2f2f2;
+//    width: 25%;
+//    text-align: center;
+//
+//
+//
+//
+//
+//    a {
+//      padding:0.3em 0;
+//      display: inline-block;
+//      width: 100%;
+//      height: auto;
+//
+//      opacity: 0.2;
+//    }
+//  }
+//
+//
+//}
+//
+////.progress_link {
+////  a.active {
+////    background-color: #8de097;
+////  }
+////}
+////
+////.progress {
+////  width:100% !important;
+////  height: auto !important;
+////  background-color: transparent !important;
+////  div{
+////    font-size:1.2em;
+////    padding:0.5em 0;
+////    font-weight: 600;
+////    border-radius: 1em;
+////  }
+////  a {
+////    display: inline-block;
+////    background-color: pink;
+////    &:active {
+////      border: 5px solid red;
+////    }
+////  }
+////}
+////
+////.pro {
+////  width: 100%;
+////}
+
+.progress {
+  width: 100%;
+  height: auto !important;
+  background-color: transparent !important;
+  margin: 2em 0;
+  .progress-bar {
+    width: 25%;
+    padding: 0.3em 0 !important;
+    font-size: 1.2em;
+
+    background: lightgrey;
+  }
+}
+
+
+.nn {
+  text-align: center;
+  width: 100%;
+  button {
+  align-self: center;
+
+    a {
+      width: 100%;
+      height: auto;
+      display: inline-block;
+      color: white !important;
+    }
+  }
+}

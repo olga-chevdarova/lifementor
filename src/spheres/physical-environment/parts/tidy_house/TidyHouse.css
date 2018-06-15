@@ -1,0 +1,13 @@
+.form-check input {
+    margin-left: 0.5em !important;
+}
+.form-check span {
+    margin-left: 0.5em !important;
+    font-weight: 600;
+    font-style: italic;
+}
+
+img {
+    width:100% !important;
+    height: auto !important;
+}

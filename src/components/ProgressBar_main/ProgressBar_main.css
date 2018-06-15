@@ -1,0 +1,21 @@
+.progress {
+  width: 100%;
+  height: auto !important;
+  background-color: transparent !important;
+  margin: 2em 0; }
+  .progress .progress-bar {
+    width: 25%;
+    padding: 0.3em 0 !important;
+    font-size: 1.2em;
+    background: lightgrey; }
+
+.nn {
+  text-align: center;
+  width: 100%; }
+  .nn button {
+    align-self: center; }
+    .nn button a {
+      width: 100%;
+      height: auto;
+      display: inline-block;
+      color: white !important; }
