@@ -2,33 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25126ab3-0be6-4374-a013-40fc39c790d5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/main/circle.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/bathroom.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/kitchen.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/physical-environment/stages/start/physical_environment.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Pages/Analysis/AnalysisPage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Pages/Analysis/AnalysisPage.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/ProgressBar_main/ProgressBar_main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/ProgressBar_main/ProgressBar_main.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/ProgressBar_main/_markup/ProgressBar_markup.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/Spheres.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/main/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/physical-environment/PhysicalEnvironment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/TidyHouse.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/TidyHouse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/household_chores.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/kitchen/kitchen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/test.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/physical-environment/stages/analysis/PhysicalEnvironment_analysis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/physical-environment/stages/start/PhysicalEnvironment_start.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/physical-environment/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/career/physical_environment.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/environment/_start/physical_environment.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/index/_start/circle.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/physical-environment/_start/physical_environment.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Routes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Charts/_doughnut/ChartDoughnut.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/markup/_start/Start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/markup/_start/start.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/markup/_testing/Testing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/markup/_testing/testing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/career/CarrerTesting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/career/carrer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/environment/_start/EnvironmentStart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/index/_start/IndexStart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/physical-environment/_start/PhysicalEnvironmentStart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/physical-environment/_testing/PhysicalEnvironmentTesting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/spheres/relationships/relationships.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/stages/testing/Testing/Chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/stages/testing/_start/Testing_Start.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/stages/testing/_start/Testing_Start.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/stages/testing/_start/_markup/Start_Markup.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Pages/Analysis/AnalysisPage.css" afterPath="$PROJECT_DIR$/src/components/navigation/Navigation.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Pages/Analysis/AnalysisPage.js" afterPath="$PROJECT_DIR$/src/components/navigation/Navigation.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/Pages/Analysis/AnalysisPage.scss" afterPath="$PROJECT_DIR$/src/components/navigation/Navigation.scss" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.css" afterPath="$PROJECT_DIR$/src/App.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/spheres/main/main.js" afterPath="$PROJECT_DIR$/src/spheres/main/main.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -42,11 +49,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PhysicalEnvironment.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/PhysicalEnvironment.js">
+      <file leaf-file-name="Testing.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/markup/_testing/Testing.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChartDoughnut.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Charts/_doughnut/ChartDoughnut.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -55,99 +86,70 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnalysisPage.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Pages/Analysis/AnalysisPage.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="36" column="87" lean-forward="false" selection-start-line="36" selection-start-column="87" selection-end-line="36" selection-end-column="87" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PhysicalEnvironment_analysis.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/stages/analysis/PhysicalEnvironment_analysis.js">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/test.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="89" column="56" lean-forward="false" selection-start-line="89" selection-start-column="56" selection-end-line="89" selection-end-column="56" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kitchen.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/kitchen/kitchen.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-                <marker date="1529051405954" expanded="true" signature="1752:1835" ph="&lt;div/&gt;" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TidyHouse.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/TidyHouse.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+              <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Form.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../natal-ltd/src/Components/Form/Form.js">
+      <file leaf-file-name="Navigation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/navigation/Navigation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="47" />
+            <state relative-caret-position="136">
+              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Form__markup.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../natal-ltd/src/Components/Form/__markup/Form__markup.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TidyHouse.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/TidyHouse.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="73" />
+            <state relative-caret-position="356">
+              <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../heroku/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../nodeexpress/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="74" selection-end-column="3" />
               <folding>
-                <element signature="e#0#39#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -187,23 +189,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/spheres/physical-environment/tidy_house/TydyHouse.js" />
-        <option value="$PROJECT_DIR$/src/App.css" />
-        <option value="$PROJECT_DIR$/src/index.js" />
-        <option value="$PROJECT_DIR$/src/spheres/physical-environment/tidy_house/TidyHouse.css" />
-        <option value="$PROJECT_DIR$/src/spheres/physical-environment/tidy_house/household_chores.js" />
-        <option value="$PROJECT_DIR$/src/spheres/physical-environment/tidy_house/TidyHouse.js" />
-        <option value="$PROJECT_DIR$/src/Pages/Analysis/Analysis.js" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/Pages/Analysis/new.scss" />
         <option value="$PROJECT_DIR$/src/Pages/Analysis/AnalysisPage.css" />
-        <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/spheres/main/main.js" />
         <option value="$PROJECT_DIR$/src/spheres/Spheres.js" />
         <option value="$PROJECT_DIR$/src/components/ProgressBar_main/_markup/ProgressBar_markup.js" />
         <option value="$PROJECT_DIR$/src/Pages/Analysis/AnalysisPage.scss" />
         <option value="$PROJECT_DIR$/src/spheres/physical-environment/test.js" />
-        <option value="$PROJECT_DIR$/src/Pages/Analysis/AnalysisPage.js" />
         <option value="$PROJECT_DIR$/src/spheres/physical-environment/PhysicalEnvironment.js" />
         <option value="$PROJECT_DIR$/src/spheres/physical-environment/stages/start/PhysicalEnvironment_start.js" />
         <option value="$PROJECT_DIR$/src/components/ProgressBar_main/ProgressBar_main.js" />
@@ -214,6 +205,41 @@
         <option value="$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/test.js" />
         <option value="$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/TidyHouse.css" />
         <option value="$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/kitchen/kitchen.js" />
+        <option value="$PROJECT_DIR$/src/Pages/Analysis/AnalysisPage.js" />
+        <option value="$PROJECT_DIR$/src/components/navigation/_sphears/AnalysisPage.js" />
+        <option value="$PROJECT_DIR$/src/components/navigation/_sphears/Navigation_Spears.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/spheres/main/main.js" />
+        <option value="$PROJECT_DIR$/src/components/navigation/Navigation.scss" />
+        <option value="$PROJECT_DIR$/src/stages/testing/_start/_markup/Start_Markup.js" />
+        <option value="$PROJECT_DIR$/src/stages/testing/_start/Testing_Start.js" />
+        <option value="$PROJECT_DIR$/src/stages/testing/Testing/Testing.js" />
+        <option value="$PROJECT_DIR$/src/markup/start.js" />
+        <option value="$PROJECT_DIR$/src/spheres/index/_start/IndexStart.js" />
+        <option value="$PROJECT_DIR$/src/stages/testing/_start/Testing_Start.scss" />
+        <option value="$PROJECT_DIR$/src/markup/_start/start.scss" />
+        <option value="$PROJECT_DIR$/src/markup/_start/Start.js" />
+        <option value="$PROJECT_DIR$/src/spheres/career/carrer.js" />
+        <option value="$PROJECT_DIR$/src/spheres/relationships/relationships.js" />
+        <option value="$PROJECT_DIR$/src/spheres/environment/_start/EnvironmentStart.js" />
+        <option value="$PROJECT_DIR$/src/spheres/physical-environment/_start/PhysicalEnvironmentStart.js" />
+        <option value="$PROJECT_DIR$/src/spheres/physical-environment/_testing/PhysicalEnvironmentTesting.js" />
+        <option value="$PROJECT_DIR$/src/Routes.js" />
+        <option value="$PROJECT_DIR$/src/stages/testing/Testing/Chart.js" />
+        <option value="$PROJECT_DIR$/src/components/Charts/_pie/ChartPie.js" />
+        <option value="$PROJECT_DIR$/src/spheres/career/CarrerTesting.js" />
+        <option value="$PROJECT_DIR$/src/App.css" />
+        <option value="$PROJECT_DIR$/src/markup/_testing/testing.scss" />
+        <option value="$PROJECT_DIR$/src/markup/_testing/Testing.js" />
+        <option value="$PROJECT_DIR$/src/components/Charts/_doughnut/ChartDoughnut.js" />
+        <option value="$PROJECT_DIR$/build/index.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/../heroku/server.js" />
+        <option value="$PROJECT_DIR$/public/.htaccess" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/components/navigation/Navigation.js" />
+        <option value="$PROJECT_DIR$/server.js" />
       </list>
     </option>
   </component>
@@ -257,6 +283,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -268,20 +295,50 @@
             <path>
               <item name="lifementor" type="b2602c69:ProjectViewProjectNode" />
               <item name="lifementor" type="462c0819:PsiDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lifementor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lifementor" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lifementor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lifementor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lifementor" type="b2602c69:ProjectViewProjectNode" />
               <item name="lifementor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lifementor" type="b2602c69:ProjectViewProjectNode" />
               <item name="lifementor" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Pages" type="462c0819:PsiDirectoryNode" />
-              <item name="Analysis" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="navigation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lifementor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lifementor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="markup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lifementor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lifementor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="markup" type="462c0819:PsiDirectoryNode" />
+              <item name="_start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lifementor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lifementor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="markup" type="462c0819:PsiDirectoryNode" />
+              <item name="_testing" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lifementor" type="b2602c69:ProjectViewProjectNode" />
@@ -289,30 +346,56 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="spheres" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="lifementor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lifementor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="spheres" type="462c0819:PsiDirectoryNode" />
+              <item name="career" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lifementor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lifementor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="spheres" type="462c0819:PsiDirectoryNode" />
+              <item name="physical-environment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lifementor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lifementor" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="spheres" type="462c0819:PsiDirectoryNode" />
+              <item name="physical-environment" type="462c0819:PsiDirectoryNode" />
+              <item name="parts" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="$USER_HOME$/node" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../natal-ltd/src/Components/Form/__markup/Form__markup.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../heroku/server.js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Olga\WebstormProjects\lifementor\src\spheres\career" />
+      <recent name="C:\Users\Olga\WebstormProjects\lifementor\src\spheres\physical-environment\_start" />
+      <recent name="C:\Users\Olga\WebstormProjects\lifementor\src\spheres\index\_start" />
+      <recent name="C:\Users\Olga\WebstormProjects\lifementor\src\stages\testing\_start" />
       <recent name="C:\Users\Olga\WebstormProjects\lifementor\src\Pages\Analysis" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Olga\WebstormProjects\lifementor\src\spheres\environment\_start" />
+      <recent name="C:\Users\Olga\WebstormProjects\lifementor\src\spheres\career" />
+      <recent name="C:\Users\Olga\WebstormProjects\lifementor\src\components\navigation" />
+      <recent name="C:\Users\Olga\WebstormProjects\lifementor\src\components\navigation\_sphears" />
       <recent name="C:\Users\Olga\WebstormProjects\lifementor\src\spheres\physical-environment\parts\tidy_house" />
-      <recent name="C:\Users\Olga\WebstormProjects\lifementor\src\spheres\physical-environment\stages\start" />
-      <recent name="C:\Users\Olga\WebstormProjects\lifementor\src\spheres\main" />
-      <recent name="C:\Users\Olga\WebstormProjects\lifementor\src\Pages\Analysis" />
-      <recent name="C:\Users\Olga\WebstormProjects\lifementor\src\spheres\physical-environment\parts" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -346,12 +429,16 @@
       <workItem from="1528724377254" duration="346000" />
       <workItem from="1528799598849" duration="11835000" />
       <workItem from="1528872318547" duration="16678000" />
-      <workItem from="1529049353650" duration="2660000" />
+      <workItem from="1529049353650" duration="24834000" />
+      <workItem from="1529128808143" duration="11830000" />
+      <workItem from="1529301139426" duration="4036000" />
+      <workItem from="1529306317503" duration="100000" />
+      <workItem from="1529306717715" duration="1324000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85068000" />
+    <option name="totallyTimeSpent" value="124532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -383,204 +470,17 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/TidyHouse.js</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/components/ProgressBar_main/ProgressBar_main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="1" lean-forward="false" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pages/Analysis/AnalysisPage.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="42" column="55" lean-forward="false" selection-start-line="42" selection-start-column="55" selection-end-line="42" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spheres/main/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="23" lean-forward="true" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../natal-ltd/src/Components/Form/Form.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pages/Analysis/AnalysisPage.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="43" column="18" lean-forward="false" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/PhysicalEnvironment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spheres/Spheres.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/TidyHouse.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../natal-ltd/src/Components/Form/Form.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../natal-ltd/src/Components/Header/Navigation/Navigation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/household_chores.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1309">
-          <caret line="77" column="84" lean-forward="false" selection-start-line="77" selection-start-column="84" selection-end-line="77" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="34" lean-forward="false" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/PhysicalEnvironment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spheres/Spheres.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../natal-ltd/src/Components/Header/Navigation/Navigation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/household_chores.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="17" lean-forward="false" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/TidyHouse.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="25" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../natal-ltd/src/Components/Header/Navigation/__links/Navigation_Links.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../natal-ltd/src/Components/Header/Navigation/Navigation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -589,17 +489,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Pages/Analysis/new.scss" />
-    <entry file="file://$PROJECT_DIR$/src/Pages/Analysis/AnalysisPage.css">
+    <entry file="file://$PROJECT_DIR$/src/components/navigation/Navigation.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -607,7 +500,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
           <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,13 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/stages/start/PhysicalEnvironment_start.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/ProgressBar_main/ProgressBar_main.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -632,59 +517,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/spheres/Spheres.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="39" lean-forward="true" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spheres/main/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="35" lean-forward="true" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pages/Analysis/AnalysisPage.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="18" />
-          <caret line="37" column="18" lean-forward="false" selection-start-line="37" selection-start-column="12" selection-end-line="37" selection-end-column="18" />
-          <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="18" />
-          <caret line="39" column="18" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="18" />
-          <caret line="40" column="18" lean-forward="false" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="18" />
-          <caret line="41" column="18" lean-forward="false" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="18" />
-          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="18" />
-          <caret line="43" column="18" lean-forward="false" selection-start-line="43" selection-start-column="12" selection-end-line="43" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/ProgressBar_main/ProgressBar_main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="101" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="116" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/household_chores.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="16167">
           <caret line="951" column="19" lean-forward="true" selection-start-line="951" selection-start-column="19" selection-end-line="951" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -693,21 +529,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/TidyHouse.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="73" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../natal-ltd/src/Components/Form/__markup/Form__markup.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -715,7 +540,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -723,20 +547,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-            <marker date="1529051405954" expanded="true" signature="1752:1835" ph="&lt;div/&gt;" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/stages/analysis/PhysicalEnvironment_analysis.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -744,17 +554,101 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spheres/Spheres.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" lean-forward="true" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/stages/start/PhysicalEnvironment_start.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="14" column="42" lean-forward="false" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stages/testing/_start/_markup/Start_Markup.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/test.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="254">
           <caret line="89" column="56" lean-forward="false" selection-start-line="89" selection-start-column="56" selection-end-line="89" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/stages/analysis/PhysicalEnvironment_analysis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="42" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ProgressBar_main/ProgressBar_main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="101" column="34" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="116" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/navigation/Navigation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="53" column="26" lean-forward="false" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/parts/tidy_house/TidyHouse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="73" />
           <folding>
-            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#0#39#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/markup/start.js" />
+    <entry file="file://$PROJECT_DIR$/src/stages/testing/_start/Testing_Start.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="51" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stages/testing/_start/Testing_Start.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/markup/_start/start.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spheres/main/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="42" column="24" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="42" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -762,25 +656,194 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spheres/relationships/relationships.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spheres/career/carrer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="29" column="125" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spheres/environment/_start/EnvironmentStart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/_start/PhysicalEnvironmentStart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/markup/_start/Start.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="33" lean-forward="false" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="20" column="101" lean-forward="false" selection-start-line="20" selection-start-column="101" selection-end-line="20" selection-end-column="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="15" lean-forward="false" selection-start-line="51" selection-start-column="15" selection-end-line="51" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stages/testing/Testing/Chart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="57" column="7" lean-forward="false" selection-start-line="57" selection-start-column="7" selection-end-line="60" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spheres/index/_start/IndexStart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="46" column="1" lean-forward="false" selection-start-line="9" selection-start-column="2" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spheres/physical-environment/_testing/PhysicalEnvironmentTesting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/markup/_testing/testing.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/spheres/career/CarrerTesting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="53" lean-forward="false" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/markup/_testing/Testing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Charts/_doughnut/ChartDoughnut.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="26" lean-forward="false" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../nodeexpress/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="6" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="74" selection-end-column="3" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="0" column="522" lean-forward="false" selection-start-line="0" selection-start-column="512" selection-end-line="0" selection-end-column="522" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="29" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+        <state relative-caret-position="153">
+          <caret line="10" column="25" lean-forward="false" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Pages/Analysis/AnalysisPage.js">
+    <entry file="file://$PROJECT_DIR$/src/components/navigation/Navigation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="36" column="87" lean-forward="false" selection-start-line="36" selection-start-column="87" selection-end-line="36" selection-end-column="87" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="136">
+          <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../heroku/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -1,14 +1,16 @@
 import React, { Component } from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import Spheres from "./spheres/Spheres";
-import AnalysisPage from "./Pages/Analysis/AnalysisPage";
+import Navigation from "./components/navigation/Navigation";
+
 
 class App extends Component {
     render() {
         return (
             <div className="App">
-              <AnalysisPage/>
+            <Navigation/>
+
+              {/*<AnalysisPage/>*/}
             </div>
         );
     }

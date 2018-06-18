@@ -1,0 +1,135 @@
+html {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+h1 {
+  text-align: center;
+  padding:0.5em;
+  font-size: 2em !important;
+}
+
+.nav-link {
+  text-align: center;
+  font-weight: 400;
+}
+.nav-tabs {
+  padding: 0 !important;
+  margin: 2em 0;
+}
+.nav-item {
+  width: 11.11%;
+  height:100%;
+}
+
+
+@mixin background-color($color) {
+  background-color:  $color !important;
+}
+
+.nav-link0 {
+  background-color: lightgrey;
+}
+
+.nav-link {
+  background-color: #f2f2f2;
+  color: #333;
+}
+
+
+
+img{
+  max-width: 100% !important;
+  height:100%;
+}
+
+.main {
+  margin: 2em 0;
+}
+
+@mixin background-color-des($color) {
+  background-color: lighten($color, 20%);
+}
+
+@mixin background-color($color) {
+  background-color: $color;
+}
+
+.navigation_sphearsTabs {
+  position: relative;
+  .sphearsPanel {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 1em;
+    background-color: #eaeaea;
+    z-index: -1;
+  }
+  a {
+
+    display: inline-block;
+    width: calc(100% / 9);
+    text-align: center;
+    padding: 0.5em 0;
+    border-top-left-radius: 0.5em;
+    border-top-right-radius: 0.5em;
+    transition: all 0.2s;
+    &.active {
+      transform:translateY(-0.5em);
+
+    }
+    &:first-of-type {
+      @include background-color-des(#c4da5b);
+      &.active {
+        @include background-color(#c4da5b);
+      }
+    }
+    &:nth-of-type(2) {
+      @include background-color-des(#2579bf);
+      &.active {
+        @include background-color(#2579bf);
+      }
+    }
+    &:nth-of-type(3) {
+      @include background-color-des(#f12f56);
+      &.active {
+        @include background-color(#f12f56);
+      }
+    }
+    &:nth-of-type(4) {
+      @include background-color-des(#ffa533);
+      &.active {
+        @include background-color(#ffa533);
+      }
+    }
+    &:nth-of-type(5) {
+      @include background-color-des(#7ccf53);
+      &.active {
+        @include background-color(#7ccf53);
+      }
+    }
+    &:nth-of-type(6) {
+      @include background-color-des(#d8d100);
+      &.active {
+        @include background-color(#d8d100);
+      }
+    }
+    &:nth-of-type(7) {
+      @include background-color-des(#a13bc6);
+      &.active {
+        @include background-color(#a13bc6);
+      }
+    }
+    &:nth-of-type(8) {
+      @include background-color-des(#29b0ce);
+      &.active {
+        @include background-color(#29b0ce);
+      }
+    }
+    &:nth-of-type(9) {
+      @include background-color-des(#25d1b3);
+      &.active {
+        @include background-color(#25d1b3);
+      }
+    }
+  }
+}
