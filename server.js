@@ -4,10 +4,10 @@ const app = express();
 
 app.use(express.static(path.join(__dirname, 'build')));
 
-app.get('/ping', function (req, res) {
-    res.send("Pong");
+app.get('/test', function (req, res) {
+    res.send("<h1>Главная страница</h1>");
 });
-app.get('/', function (req, res) {
+app.get('*', function (req, res) {
     res.sendFile(path.join(__dirname, 'build', 'index.html'));
 });
 

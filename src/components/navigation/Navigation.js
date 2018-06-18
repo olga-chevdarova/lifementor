@@ -9,7 +9,7 @@ const Navigation = (props) => {
     return (
         <BrowserRouter>
             <div>
-                <h1>Сферы</h1>
+                <h1>Тест</h1>
                 <div className="navigation_sphearsTabs flex">
                     <div className="sphearsPanel"></div>
                     <NavLink className="sphearsTab" exact to="/">Главная</NavLink>
