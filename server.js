@@ -111,10 +111,10 @@ app.get('/ping', function (req, res) {
 
 // app.use(express.static(path.resolve(__dirname, 'build')));
 
-app.get('*', (req, res) => {
-    console.log(req.params);
-    res.sendFile(path.resolve(__dirname, 'build', 'index.html') )
-});
+// app.get('*', (req, res) => {
+//     console.log(req.params);
+//     res.sendFile(path.resolve(__dirname, 'build', 'index.html') )
+// });
 
 
 app.listen(9000, console.log("Working"));
